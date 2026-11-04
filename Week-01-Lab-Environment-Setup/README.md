@@ -164,7 +164,7 @@ The following screenshots were captured during the configuration and verificatio
 ![NAT Network Configuration](screenshots/05-nat-network-configuration.png)
 
 ### 6. Virtual Machine Snapshot
-![Kali Snapshot](screenshots/06-kali_Snapshot.png)
+![Kali Snapshot](screenshots/06-kali_Snapshots.png)
 
 ### 7. Laptop System Specifications
 ![Laptop Specifications](screenshots/07-laptop-system-specifications.jpeg)
