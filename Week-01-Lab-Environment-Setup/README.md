@@ -155,16 +155,16 @@ The following screenshots were captured during the configuration and verificatio
 ![Internet Connectivity](screenshots/02-internet-connectivity.png)
 
 ### 3. Shared Folder Verification
-![Shared Folder Verification](screenshots/03-shared-folder-verification.png)
+![Shared Folder Verification](screenshots/03-shared_folder_verification.png)
 
 ### 4. Shared Folder Write Test
-![Shared Folder Write Test](screenshots/04-shared-folder-write-test.png)
+![Shared Folder Write Test](screenshots/04-shared_folder_write-test.png)
 
 ### 5. NAT Network Configuration
 ![NAT Network Configuration](screenshots/05-nat-network-configuration.png)
 
 ### 6. Virtual Machine Snapshot
-![Kali Snapshot](screenshots/06-kali-snapshot.png)
+![Kali Snapshot](screenshots/06-kali_snapshot.png)
 
 ### 7. Laptop System Specifications
 ![Laptop Specifications](screenshots/07-laptop-system-specifications.jpeg)
