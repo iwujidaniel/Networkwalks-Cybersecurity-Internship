@@ -146,13 +146,28 @@ flowchart TD
 
 The following screenshots were captured during the configuration and verification process:
 
-1. `01-kali-ip-configuration.png`
-2. `02-internet-connectivity.png`
-3. `03-shared-folder-verification.png`
-4. `04-shared-folder-write-test.png`
-5. `05-nat-network-configuration.png`
-6. `06-kali-snapshot.png`
-7. `07-laptop-system-specifications.png`
+## 9. Evidence and Screenshots
+
+### 1. Kali Linux IP Configuration
+![Kali IP Configuration](screenshots/01-kali-ip-configuration.png)
+
+### 2. Internet Connectivity Test
+![Internet Connectivity](screenshots/02-internet-connectivity.png)
+
+### 3. Shared Folder Verification
+![Shared Folder Verification](screenshots/03-shared-folder-verification.png)
+
+### 4. Shared Folder Write Test
+![Shared Folder Write Test](screenshots/04-shared-folder-write-test.png)
+
+### 5. NAT Network Configuration
+![NAT Network Configuration](screenshots/05-nat-network-configuration.png)
+
+### 6. Virtual Machine Snapshot
+![Kali Snapshot](screenshots/06-kali-snapshot.png)
+
+### 7. Laptop System Specifications
+![Laptop Specifications](screenshots/07-laptop-system-specifications.jpeg)
 
 Screenshots will be uploaded to this project's `screenshots` directory.
 
