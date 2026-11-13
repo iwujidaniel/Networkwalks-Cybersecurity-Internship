@@ -117,3 +117,25 @@ All activities were limited to the authorized internship target and my own contr
 No exploitation, unauthorized access, password attacks, or disruptive testing was performed.
 
 This documentation represents practical laboratory work and should not be interpreted as a professional security assessment of the target organization.
+## Evidence and Screenshots
+
+### theHarvester Footprinting
+
+The following screenshots document the installation/version check, available data sources, and footprinting results:
+
+- [01 – theHarvester Help](Screenshots/theHarvester/01-theHarvester-help.png)
+- [02 – Version Information](Screenshots/theHarvester/02-theHarvester-version.png)
+- [03 – Available Data Sources](Screenshots/theHarvester/03-theHarvester-data-sources.png)
+- [04 – crt.sh Results](Screenshots/theHarvester/04-theHarvester-crtsh-results.png)
+- [05 – DuckDuckGo Results](Screenshots/theHarvester/05-theHarvester-duckduckgo-results.png)
+- [06 – Baidu Results](Screenshots/theHarvester/06-theHarvester-baidu-results.png)
+
+### Zenmap Network Scanning
+
+The following screenshots document the Zenmap application, scan configuration, discovered hosts, and gateway details:
+
+- [07 – Zenmap Application](Screenshots/Zenmap/07-zenmap-application.png)
+- [08 – Ping Scan Configuration](Screenshots/Zenmap/08-zenmap-ping-scan-configuration.png)
+- [09 – Network Scan Results](Screenshots/Zenmap/09-zenmap-scan-results.png)
+- [10 – Gateway Host Details](Screenshots/Zenmap/10-zenmap-host-details.png)
+
