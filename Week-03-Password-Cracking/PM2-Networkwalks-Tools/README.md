@@ -10,7 +10,7 @@ The following screenshots document the practical exercise:
 ![Initial Access Denied](13-Networkwalks-Initial-Attempt-Access-Denied.png)
 
 ### 3. Successful Password Recovery
-![Password Recovery Success](14-Networkwalks-Password-Recovery-Success.png)
+![Password Recovery Success](14-Networkwalks-Password-Recovery-Success-Redacted.png)
 
 ### 4. Successfully Unlocked PDF
 ![PDF Successfully Unlocked](15-Networkwalks-PDF-Successfully-Unlocked.png)
