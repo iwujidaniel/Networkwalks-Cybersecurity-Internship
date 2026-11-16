@@ -1,11 +1,19 @@
 
 ## Evidence
-Screenshots are stored in the `Screenshots` folder:
 
-- `12-Networkwalks-PDF-Hash-Extraction.png`
-- `13-Networkwalks-Initial-Attempt-Access-Denied.png`
-- `14-Networkwalks-Password-Recovery-Success.png`
-- `15-Networkwalks-PDF-Successfully-Unlocked.png`
+The following screenshots document the practical exercise:
+
+### 1. PDF Hash Extraction
+![PDF Hash Extraction](12-Networkwalks-PDF-Hash-Extraction.png)
+
+### 2. Initial Unsuccessful Attempt
+![Initial Access Denied](13-Networkwalks-Initial-Attempt-Access-Denied.png)
+
+### 3. Successful Password Recovery
+![Password Recovery Success](14-Networkwalks-Password-Recovery-Success.png)
+
+### 4. Successfully Unlocked PDF
+![PDF Successfully Unlocked](15-Networkwalks-PDF-Successfully-Unlocked.png)
 
 ## Key Learning Outcomes
 - Understanding PDF password hashes.
