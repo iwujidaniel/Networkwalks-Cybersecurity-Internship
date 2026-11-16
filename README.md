@@ -22,8 +22,8 @@ Welcome to my cybersecurity internship repository. This repository documents my 
 | Week | Project | Status |
 |---|---|---|
 | Week 1 | Practical Lab Environment Setup | Completed |
-| Week 2 | To be updated | Upcoming |
-| Week 3 | To be updated | Upcoming |
+| Week 2 | Footprinting and Network scanning | Completed |
+| Week 3 | Password Cracking | Completed |
 | Week 4 | To be updated | Upcoming |
 
 ## Tools and Technologies
